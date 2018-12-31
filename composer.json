@@ -1,5 +1,5 @@
 {
-  "name": "dawid-bednarz/php-context-bundle",
+  "name": "dawid-bednarz/php-context",
   "description": "Base classes for flexible context logic",
   "type": "project",
   "require": {
