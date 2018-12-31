@@ -1,7 +1,7 @@
 # DESCRIPTION
-Common logic for SFBundle
+Base classes for flexible context logic
 # INSTALLATION
 ``
-composer require dawid-bednarz/sf-component-bundle
+composer require dawid-bednarz/php-context
 ``
 
