@@ -1,7 +1,7 @@
 {
   "name": "dawid-bednarz/php-context",
   "description": "Base classes for flexible context logic",
-  "type": "project",
+  "type": "lib",
   "require": {
     "php": "^7.2"
   },
